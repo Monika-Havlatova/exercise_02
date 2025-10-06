@@ -37,7 +37,7 @@ Note the differences between the created variables.
         ```
 
 ### Task 3
- * Globally align the two selected sequences using the BLOSUM62 matrix, a gap opening cost of -1 and a gap extension cost of 1.
+ * Translate and globally align the two selected sequences using the BLOSUM62 matrix, a gap opening cost of -1 and a gap extension cost of 1.
 
 ## Regular Expressions
 ### Task 4
@@ -138,3 +138,4 @@ git commit
 ```bash
 git push origin main
 ```
+
